@@ -1,0 +1,67 @@
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe.config
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\MainWindow.g.cs
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\App.g.cs
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.cache
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.lref
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\MainWindow.baml
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.g.resources
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.Properties.Resources.resources
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csproj.GenerateResource.cache
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\source\repos\WorldSeriesChampionship\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csprojAssemblyReference.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V2.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V3.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.0\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\bin\Debug\WorldSeriesChampionship.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csprojAssemblyReference.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 8 Assignment\WorldSeriesChampionship V4.1\WorldSeriesChampionship\obj\Debug\WorldSeriesChampionship.pdb

@@ -1,0 +1,35 @@
+﻿<Window x:Class="WorldSeriesChampionship.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorldSeriesChampionship"
+        mc:Ignorable="d"
+        Title="World Series Championship" Height="450" Width="800" Background="Gray" ResizeMode="NoResize" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <ListBox Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Grid.ColumnSpan="2" FontSize="30" ItemsSource="{Binding teamNames}" Margin="10" SelectionMode="Extended" SelectedIndex="{Binding SelectIndex}" SelectionChanged="ListBox_SelectionChanged" Background="Black" Foreground="White">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Label Margin="20,0" Content="{Binding TeamNamesProperty}" Foreground="White"></Label>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Display" Grid.Row="4" Grid.Column="0" Foreground="White" Margin="10" HorizontalContentAlignment="Center" FontSize="30" VerticalContentAlignment="Center" Background="Brown" Click="Display_Click" FontWeight="Bold" BorderBrush="Black" BorderThickness="4"/>
+        <Button Content="Reset" Grid.Row="4" Grid.Column="1" Foreground="White" Margin="10" HorizontalContentAlignment="Center" FontSize="30" VerticalContentAlignment="Center" Background="Brown" Click="Reset_Click" FontWeight="Bold" BorderBrush="Black" BorderThickness="4"/>
+        <GroupBox Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Grid.ColumnSpan="2" Header="Number of Times team has won the WorldSeries is" FontWeight="Bold" Foreground="White" Margin="10" HorizontalContentAlignment="Center" FontSize="27">
+            <Label Grid.Row="2" Grid.Column="2" Grid.RowSpan="2" Grid.ColumnSpan="2" Content="{Binding WinningTeam}" FontSize="40" FontWeight="Bold" Foreground="White" Background="Black" Margin="10" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="4" VerticalContentAlignment="Center"/>
+        </GroupBox>
+    </Grid>
+</Window>
